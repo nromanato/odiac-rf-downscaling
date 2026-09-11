@@ -2,7 +2,7 @@
 
 Code accompanying:
 
-> Romanato, N., Wang, M., Maragno, D. (2026). *Earth Observation Predictors of
+> Romanato, N., Wang, M., Maragno, D., Wang, X., Jin, J. (2026). *Earth Observation Predictors of
 > Sub-Kilometre Anthropogenic CO₂ Emissions are Shaped by City Morphology:
 > Evidence from Shanghai and Milan.* Submitted to *Environmental Modelling & Software*.
 
@@ -82,6 +82,6 @@ under CC BY 4.0 and must be cited as:
 
 Cite the article for the method and the Zenodo deposit for the code and data:
 
-> Romanato, N., Wang, M., Maragno, D. (2026). *Earth Observation Predictors of
+> Romanato, N., Wang, M., Maragno, D., Wang, X., Jin, J. (2026). *Earth Observation Predictors of
 > Sub-Kilometre Anthropogenic CO₂ Emissions are Shaped by City Morphology:
 > Evidence from Shanghai and Milan.* https://doi.org/10.5281/zenodo.22707984
