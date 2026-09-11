@@ -1,0 +1,25 @@
+# ---------------------------------------------------------------------------
+# Mass-preserving Random Forest downscaling of ODIAC CO2 emissions
+#
+# Code:  https://github.com/nromanato/odiac-rf-downscaling
+# Data:  https://doi.org/10.5281/zenodo.22707984
+#
+# Colab users: run notebook cell 0.1 instead — it installs the same set.
+# Local install:  pip install -r requirements.txt
+#
+# Versions are intentionally unpinned. Before depositing, record the exact
+# environment of the published run with:  pip freeze > requirements-lock.txt
+# ---------------------------------------------------------------------------
+earthengine-api
+geemap
+rasterio
+rasterstats
+geopandas
+shapely
+scikit-learn
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+folium
